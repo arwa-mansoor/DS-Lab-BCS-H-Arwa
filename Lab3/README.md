@@ -72,9 +72,9 @@
  - **child pointer (points to another linked list).**
 - **Write a function to flatten the structure so that all nodes appear in a single-level list.**
 - **Example:**
- - 1 → 2 → 3  
-       |  
-       4 → 5
+-   ```1 → 2 → 3  
+           |  
+           4 → 5```
 - **Output: 1 → 2 → 4 → 5 → 3**
 
 <img width="444" height="346" alt="image" src="https://github.com/user-attachments/assets/56e37469-4415-4895-8e37-083a6f42a344" />
